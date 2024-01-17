@@ -3,7 +3,7 @@
 
 **I'm a second year student, pursuing a degree in Computer Science and Computational Linguistics, at IIIT Hyderabad.**
 
-## Interests
+## Interests/Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,py,flask,gcp,heroku,mysql,postman,sklearn,bots&perline=7)](https://skillicons.dev)
 

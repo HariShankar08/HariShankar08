@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-**I'm a second year student, pursuing a degree in Computer Science and Computational Linguistics, at IIIT Hyderabad.**
+**I'm a fourth year student, pursuing a degree in Computer Science and Computational Linguistics, at IIIT Hyderabad.**
 
 ## Interests/Skills
 
